@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="35d8cf22-7c46-4612-9618-e6bee2456dba" name="Default Changelist" comment="" />
+    <list default="true" id="35d8cf22-7c46-4612-9618-e6bee2456dba" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/azure-pipelines.yml" beforeDir="false" afterPath="$PROJECT_DIR$/azure-pipelines.yml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,7 @@
       <option name="presentableId" value="Default" />
       <updated>1605845453477</updated>
       <workItem from="1605845455667" duration="12704000" />
-      <workItem from="1606187758777" duration="2415000" />
+      <workItem from="1606187758777" duration="2426000" />
     </task>
     <servers />
   </component>
