@@ -4,7 +4,7 @@ const express = require('express');
 const app = express();
 
 app.get('/', (req, res) => {
-  res.send('Azure Pipeline Setup by pranab!!!');
+  res.send('Azure Pipeline Setup by vamsi!!!');
 });
 
 app.listen(config.port, () => {
